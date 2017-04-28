@@ -4,6 +4,16 @@ Chacha's blog site
 Become a successful Geek
 ![Success](http://7xqacx.com1.z0.glb.clouddn.com/success.png)
 
+Front-end
+![Front-end](http://7xqacx.com1.z0.glb.clouddn.com/Front-end.png)
+
+Back-end
+![Front-end](http://7xqacx.com1.z0.glb.clouddn.com/Back-end.png)
+
+DevOps
+![DevOps](http://7xqacx.com1.z0.glb.clouddn.com/DevOps.png)
+
+
 ```
 ////////////////////////////////////////////////////////////////////
 //                          _ooOoo_                               //
@@ -29,12 +39,3 @@ Become a successful Geek
 ////////////////////////////////////////////////////////////////////
 
 ```
-
-Front-end
-![Front-end](http://7xqacx.com1.z0.glb.clouddn.com/Front-end.png)
-
-Back-end
-![Front-end](http://7xqacx.com1.z0.glb.clouddn.com/Back-end.png)
-
-DevOps
-![DevOps](http://7xqacx.com1.z0.glb.clouddn.com/DevOps.png)
