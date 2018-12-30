@@ -20,7 +20,7 @@ Become a successful Geek
 3. HTML/CSS/JS/Ajax
 4. 常用框架与第三方类库
 
-##调试与测试
+## 调试与测试
 
 1. 调试方法和哲学
 2. 定位问题
